@@ -1,4 +1,4 @@
-# 🍔 Inomatics Research Labs - Entrance Test Hackathon
+# 🍔 Innomatics Research Labs - Entrance Test Hackathon
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ## 🎯 About The Project
 
-This repository contains my solution for the **Inomatics Research Labs Entrance Test Hackathon**. The challenge simulates a real-world data engineering and analysis scenario where data comes from multiple sources in different formats, requiring integration before meaningful insights can be extracted.
+This repository contains my solution for the **Innomatics Research Labs Entrance Test Hackathon**. The challenge simulates a real-world data engineering and analysis scenario where data comes from multiple sources in different formats, requiring integration before meaningful insights can be extracted.
 
 > ⏱️ **Completion Time:** ~1.5 hours (from reading the Google Form → data analysis → submitting the GitHub repo link back to the form)
 
@@ -164,7 +164,7 @@ Students must analyze and understand:
 git clone <repository-url>
 
 # Navigate to project directory
-cd "Inomatics Research Labs Entrance Test"
+cd "Innomatics Research Labs Entrance Test"
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
@@ -211,7 +211,7 @@ This unified dataset serves as the **single source of truth** for answering all 
 
 ## 📜 License
 
-This project is part of an educational assessment for Inomatics Research Labs.
+This project is part of an educational assessment for Innomatics Research Labs.
 
 ---
 
